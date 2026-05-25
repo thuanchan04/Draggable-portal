@@ -38,6 +38,5 @@ npm run dev
 
 # Preview
 
-<img width="100%" src="./preview.png" />
-
+<img width="100%" src="./src/assets/preview.png" />
 ---
